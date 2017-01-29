@@ -1,0 +1,25 @@
+{
+  "name": "desktop-p2pchat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "airpaste": "^1.0.9",
+    "electron-rebuild": "^1.5.7",
+    "level": "^1.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/incessantmeraki/desktop-p2pchat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/incessantmeraki/desktop-p2pchat/issues"
+  },
+  "homepage": "https://github.com/incessantmeraki/desktop-p2pchat#readme"
+}
